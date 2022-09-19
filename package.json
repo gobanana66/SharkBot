@@ -1,13 +1,13 @@
 {
-  "name": "ecstaticenlightenedtests",
+  "name": "SharkBot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Silly shark things. Custom discord bot with autoresponder and a Leslie Knope compliment generator command",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anna Klibanov",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^0.13.0",
